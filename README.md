@@ -15,7 +15,7 @@ class Developer:
         self.role = "A complete beginner striving to become a Junior Engineer."
         self.language_spoken = ["Chinese", "English"]
         self.code = ["Python", "JavaScript"]
-        self.tools = ["Django", "TailwindCSS", "Alpine.js", "htmx"]
+        self.tools = ["Django", "Git", "TailwindCSS", "Alpine.js", "htmx"]
         self.challenge = "Currently exploring the world of software engineering and learning new things everyday."
 
     def say_hi(self):
